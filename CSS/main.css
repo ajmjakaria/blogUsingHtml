@@ -1,0 +1,35 @@
+
+body{
+	margin: 0;
+	padding: 0;
+	background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+.menu ul {
+	list-style:none;
+	}
+ li {
+	
+	background:#00ff11;
+	border:1px solid Green;
+	width:150px;
+	height:35px;
+	text-align:center;
+	line-height:35px;
+	float:left;
+	}
+a {
+	text-decoration:none;
+	color:red;
+	font-size:18px;
+	display:block;
+}
+a:hover {
+	background:White;
+
+}
+h2 {
+	margin:10px;
+}

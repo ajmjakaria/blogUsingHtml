@@ -1,0 +1,54 @@
+
+.menu ul {
+list-style:none;
+}
+ li {
+background:#00ff11;
+border:1px solid Green;
+width:150px;
+height:35px;
+text-align:center;
+line-height:35px;
+float:left;
+}
+a {
+text-decoration:none;
+color:red;
+font-size:18px;
+display:block;
+}
+a:hover {
+background:White;
+
+}
+h2 {
+margin:10px;
+}
+.divSideL{
+	line-height:0px;
+	background-color:#ccffff; 
+	height:300px; 
+	width:150px;
+	float:left;
+	padding:5px;
+	text-align:center;
+	margin-right:20px;
+	margin-left:50px;
+	border:2px solid white;
+}
+.divSideR {
+	line-height:0px;
+	background-color:#ccffff; 
+	height:300px; 
+	width:150px;
+	float: right;
+	padding:5px;
+	text-align:center;
+	margin-right:20px;
+	margin-left:50px;
+	border:2px solid white;
+}
+
+
+
+
